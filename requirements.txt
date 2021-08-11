@@ -1,2 +1,2 @@
-bertview
-torch
+bertviz==1.2.0
+torch==1.9.0
